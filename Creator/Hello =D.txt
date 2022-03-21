@@ -1,8 +1,0 @@
-Ola, se vc ta lendo isso, muito obrigado, meu deu um trabalho fazer, eu fiz pra ser bem simples e dinamico, mesmo ainda tendo varias falhas, o mesmo foi o meu primeiro projeto do tipo, mais desejo melhorar ainda mais
-Caso esteja querendo contato, estou disponivel no Discord Piedro#0040, seja pra conversa ou tirar duvidas
-
-Pedro, Mero estudade do IFMA no Maranhão, em São Raimundo das Mangabeiras, 16 anos, introvertido e não sei conversar muito bem, mas relaxa não sou muito bizarro kkk XD
-
-Thacks <3 <3 <3
-
-Tem uns Arquivos Ocultos como os icones do botão de atalhos e interação, e também o projeto foi feito em Python e Trasnformado em Exe utilizando o Auto-Py-To-Exe e o instalador foi de Innosetup
