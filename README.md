@@ -1,5 +1,6 @@
 # Bot-Discord
 Discord bot made in python
+
 Improve the experience and interaction on your servers with the use of this Script (Note: It has bugs)
 
 # Message for you
