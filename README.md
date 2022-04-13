@@ -3,6 +3,8 @@ Discord bot made in python
 
 Improve the experience and interaction on your servers with the use of this Script (Note: It has bugs)
 
+![image](https://user-images.githubusercontent.com/88720549/163250363-cb1d5305-f576-4350-8101-e8823745b4bd.png)
+
 # Message for you
 Hello, I hope you have a good learning experience, that you can clear your doubts or implement your projects. Feel free to make suggestions to improve the script.
 
